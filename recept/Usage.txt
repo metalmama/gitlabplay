@@ -1,0 +1,1 @@
+Lägg i Namnet på ditt recept i "innehåll.txt" och sedan själva receptet i "recept" mappen.
